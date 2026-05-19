@@ -1,4 +1,4 @@
-# 
+# vip deribit trading bot executor is the best deribit trading bot executor with slippage-control and webhook-support. Safe, reliable, and optimized for CEX, DEX, and algorithmic
 
 
 
